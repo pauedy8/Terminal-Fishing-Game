@@ -5,4 +5,3 @@ To play the game, go to https://terminal-fishing-game.pauedy8.workers.dev/ .
 
 It features support for both mobile and desktop devices.
 Instructions are present inside the game.
-
