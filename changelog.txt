@@ -2,10 +2,10 @@ Terminal Fishing Changelog:
 Current version: 1.5.1
 
 Updates:
-1.0 - Game is released
-1.1 - Added mobile support
-1.2 - More fish and bg music
-1.3 - Added persistent data storing from IP
-1.4 - Persistent data storing is now device ID-based, not IP-based, added option to change name, and device type is now automatically detected
-1.5 - Added option to save and load IDs, increased chance of getting fish, added a secret
-1.5.1 - Renamed namespaces to IDs to avoid confusion
+1.0 - Game is released - 21.08.2026
+1.1 - Added mobile support - 21.08.2026
+1.2 - More fish and bg music - 21.08.2026
+1.3 - Added persistent data storing from IP - 22.08.2026
+1.4 - Persistent data storing is now ID-based, added name change, and device type is automatically detected - 23.08.2026
+1.5 - Added option to save and load IDs, increased chance of getting fish, added a secret - 24.08.2026
+1.5.1 - Renamed namespaces to IDs to avoid confusion - 24.08.2026
