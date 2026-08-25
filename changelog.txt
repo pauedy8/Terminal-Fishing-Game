@@ -1,5 +1,5 @@
 Terminal Fishing Changelog:
-Current version: 1.7
+Current version: 1.8
 
 Updates:
 1.0 - Game is released - 21.08.2026
@@ -12,6 +12,7 @@ Updates:
 1.6 - Added mobile context, more fish, and meme items
 1.6.1 - Added version info
 1.7 - Added inventory
+1.8 - Added item usage and up arrow support
 
 Upcoming:
-1.8 - Inventory management, more fish, and uses for items
+1.9 - Inventory item disposal, more fish
