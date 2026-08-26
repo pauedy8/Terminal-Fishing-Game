@@ -13,6 +13,4 @@ Updates:
 1.6.1 - Added version info
 1.7 - Added inventory
 1.8 - Added item usage and up arrow support
-
-Upcoming:
-1.9 - Inventory item disposal, more fish
+1.9 - Modding guide and more fish
