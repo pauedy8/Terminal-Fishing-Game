@@ -1,5 +1,5 @@
 Terminal Fishing Changelog:
-Current version: 1.8
+Current version: 1.9
 
 Updates:
 1.0 - Game is released - 21.08.2026
@@ -13,4 +13,4 @@ Updates:
 1.6.1 - Added version info
 1.7 - Added inventory
 1.8 - Added item usage and up arrow support
-1.9 - Modding guide and more fish
+1.9 - Modding guide inside .sb3 and more fish
