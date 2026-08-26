@@ -5,3 +5,4 @@ To play the game, go to https://terminal-fishing.pauedy8.workers.dev/ .
 
 It features support for both mobile and desktop devices.
 Instructions are present inside the game.
+A modding guide is also present inside the sb3.
